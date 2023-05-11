@@ -1,6 +1,6 @@
 {
-  "name": "NanoDE | An online code editor",
-  "short_name": "NanoDE",
+  "name": "openIDE | MSL",
+  "short_name": "openIDE",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
