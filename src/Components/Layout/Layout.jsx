@@ -125,10 +125,10 @@ const Layout = ({ children, ...props }) => {
                 gap: 1,
               }}
             >
-              <CodeOffIcon /> NanoDE
+              <CodeOffIcon /> openIDE
             </Typography>
             <Typography variant="subtitle2" color="text.muted">
-              Write nano code snippets efficiently
+              Write code snippets efficiently
             </Typography>
           </Typography>
         </Toolbar>
